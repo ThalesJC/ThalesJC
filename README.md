@@ -28,3 +28,16 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesJC)](https://github.com/anuraghazra/github-readme-stats)
+
+## Click On
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/thalesjcolovini/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MyLinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MyInstagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://github.com/ThalesJC" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-thales.soul96@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
+</a>
+</p>
