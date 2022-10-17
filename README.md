@@ -1,8 +1,34 @@
 <h1 align="left">Hello visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thales Colovini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThalesJC&color=yellow" alt="Profile views" /> </p>
 
+```Typescript
+
+class Me extends Developer {
+    private firstName: string
+    private lastName: string
+    private age: number
+    private nationality: string
+    private location: string
+    private languages: string[]
+    private email: string
+    
+    constructor() {
+        this.firstName = "Thales"
+        this.lastName = "Jorge Colovini"
+        this.age = 26
+        this.nationality = "brazilian"
+        this.location = "Porto Alegre, RS"
+        this.languages = ["Portuguese", "English"]
+        this.email = "thales.soul96@gmail.com"
+    }
+    
+    
+}
+
+```
+
 <li>:pencil2::notebook: - Currently studying Web Development at Trybe</li>
-<li>:speech_balloon: - i'd like to talk about technology</li>
+<li>:speech_balloon: - Let's talk about technology</li>
 
 ## 🛠 &nbsp;Tech Stack
 
