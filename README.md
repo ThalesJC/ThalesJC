@@ -1,6 +1,8 @@
 <h1 align="left">Hello visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thales Colovini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThalesJC&color=yellow" alt="Profile views" /> </p>
 
+<li>:pencil2::notebook: - Currently studying Web Development at Trybe</li>
+
 ```Typescript
 
 class Me extends Developer {
@@ -26,9 +28,6 @@ class Me extends Developer {
 }
 
 ```
-
-<li>:pencil2::notebook: - Currently studying Web Development at Trybe</li>
-<li>:speech_balloon: - Let's talk about technology</li>
 
 ## 🛠 &nbsp;Tech Stack
 
