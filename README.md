@@ -13,6 +13,10 @@ class Me extends Developer {
     private location: string
     private languages: string[]
     private email: string
+    private productionTools: string[]
+    private frontEndStacks: string[]
+    private backEndStacks: string[]
+    private studyign: string[]
     
     constructor() {
         this.firstName = "Thales"
@@ -22,9 +26,15 @@ class Me extends Developer {
         this.location = "Porto Alegre, RS"
         this.languages = ["Portuguese", "English"]
         this.email = "thales.soul96@gmail.com"
+        this.productionTools = ["git", "github", "VSCode", "google Chrome", "Insomnia", "workbench"]
+        this.frontEndStacks = ["Docker", "HTML", "CSS", "Javascript", "React.js", "Redux", "Jest", "React testing library"]
+        this.BackEndStacks = ["Docker", "Node.js", "Express", "Typescript", "MySQL", "Sequelize", "S.O.L.I.D"]
+        this.studying = ["MongoDB", "Python"]
     }
     
-    
+    productionTool(){
+        
+    }
 }
 
 ```
