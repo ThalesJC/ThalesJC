@@ -28,12 +28,36 @@ class Me extends Developer {
         this.email = "thales.soul96@gmail.com"
         this.productionTools = ["git", "github", "VSCode", "google Chrome", "Insomnia", "workbench"]
         this.frontEndStacks = ["Docker", "HTML", "CSS", "Javascript", "React.js", "Redux", "Jest", "React testing library"]
-        this.BackEndStacks = ["Docker", "Node.js", "Express", "Typescript", "MySQL", "Sequelize", "S.O.L.I.D"]
-        this.studying = ["MongoDB", "Python"]
+        this.backEndStacks = ["Docker", "Node.js", "Express", "Typescript", "MySQL", "Sequelize", "S.O.L.I.D"]
+        this.studyign = ["MongoDB", "Python"]
     }
     
-    productionTool(){
-        
+    wakeUp() {
+        console.log(`${this.firstName} finally wake up!!`)
+    }
+    
+    breakfast() {
+        console.log(`${this.firstName} is having breakfast!!`)
+    }
+    
+    work() {
+        console.log(`${this.firstName} is making deliveiries to pay for the studies!!`)
+    }
+    
+    study() {
+        console.log(`It's 14 O'clock, the opening meeting at Trybe is begin, (focus mode on)!!`)
+    }
+    
+    break() {
+        console.log(`${this.firstName} studied a lot, let's have a short break!!!`)
+    }
+    
+    play() {
+        console.log(`Sometimes we need some idle time and relax, let's play a video game!`)
+    }
+    
+    sleep() {
+        console.log(`ZzZzZzZz`)
     }
 }
 
