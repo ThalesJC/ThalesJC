@@ -93,7 +93,7 @@ class Me extends Developer {
 <a href="https://www.linkedin.com/in/thalesjcolovini/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MyLinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://www.instagram.com/thales_clvn/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-MyInstagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://github.com/ThalesJC" target="_blank">
