@@ -3,65 +3,7 @@
 
 <li>:pencil2::notebook: - Currently studying Web Development at Trybe</li>
 
-```Typescript
 
-class Me extends Developer {
-    private firstName: string
-    private lastName: string
-    private age: number
-    private nationality: string
-    private location: string
-    private languages: string[]
-    private email: string
-    private productionTools: string[]
-    private frontEndStacks: string[]
-    private backEndStacks: string[]
-    private studyign: string[]
-    
-    constructor() {
-        this.firstName = "Thales"
-        this.lastName = "Jorge Colovini"
-        this.age = 26
-        this.nationality = "brazilian"
-        this.location = "Porto Alegre, RS"
-        this.languages = ["Portuguese", "English"]
-        this.email = "thales.soul96@gmail.com"
-        this.productionTools = ["git", "github", "VSCode", "google Chrome", "Insomnia", "workbench"]
-        this.frontEndStacks = ["Docker", "HTML", "CSS", "Javascript", "React.js", "Redux", "Jest", "React testing library"]
-        this.backEndStacks = ["Docker", "Node.js", "Express", "Typescript", "MySQL", "Sequelize", "S.O.L.I.D"]
-        this.studyign = ["MongoDB", "Python"]
-    }
-    
-    wakeUp() {
-        console.log(`${this.firstName} finally wake up!!`)
-    }
-    
-    breakfast() {
-        console.log(`${this.firstName} is having breakfast!!`)
-    }
-    
-    work() {
-        console.log(`${this.firstName} is making deliveiries to pay for the studies!!`)
-    }
-    
-    study() {
-        console.log(`It's 14 O'clock, the opening meeting at Trybe is begin, (focus mode on)!!`)
-    }
-    
-    break() {
-        console.log(`${this.firstName} studied a lot, let's have a short break!!!`)
-    }
-    
-    play() {
-        console.log(`Sometimes we need some idle time and relax, let's play a video game!`)
-    }
-    
-    sleep() {
-        console.log(`ZzZzZzZz`)
-    }
-}
-
-```
 
 ## 🛠 &nbsp;Tech Stack
 
