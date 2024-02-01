@@ -1,7 +1,7 @@
 <h1 align="left">Hello visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thales Colovini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThalesJC&color=yellow" alt="Profile views" /> </p>
 
-<li>:pencil2::notebook: - Currently studying Web Development at Trybe</li>
+<li>:man_technologist: - FullStack developer at Zaffari group ecommerce</li>
 
 
 
@@ -25,7 +25,8 @@
 ![SOLID](https://img.shields.io/badge/-S.O.L.I.D-05122A?style=flat&logo=solid)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
+![swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![vtex](https://img.shields.io/badge/-Vtex.io-05122A?style=flat&logo=vtex)&nbsp;
 
 
 
