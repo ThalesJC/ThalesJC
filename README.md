@@ -1,7 +1,7 @@
 <h1 align="left">Hello visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thales Colovini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThalesJC&color=yellow" alt="Profile views" /> </p>
 
-<li>:man_technologist: - FullStack developer at Zaffari group ecommerce</li>
+<li>:man_technologist: - Front end developer at Frigelar</li>
 
 
 
