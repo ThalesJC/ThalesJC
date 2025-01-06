@@ -1,8 +1,8 @@
 <h1 align="left">Hello visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thales Colovini</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThalesJC&color=yellow" alt="Profile views" /> </p>
-
-<li>:man_technologist: - Front end developer at Frigelar</li>
-
+<br>
+<a href='https://www.credly.com/badges/0b344381-3f51-428d-ac62-7dde71caaa26/public_url' target='_blank'>
+<img src='https://images.credly.com/size/340x340/images/51dff787-71ae-4d9d-9ca7-ef9342914d75/GCC_badge_PGM_1000x1000.png' alt='Google cartificate badge' />
+</a>
 
 
 ## 🛠 &nbsp;Tech Stack
