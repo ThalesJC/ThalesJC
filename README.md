@@ -27,6 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![vtex](https://img.shields.io/badge/-Vtex.io-05122A?style=flat&logo=vtex)&nbsp;
+![GO](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=GO)&nbsp;
 
 
 
