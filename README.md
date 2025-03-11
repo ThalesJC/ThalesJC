@@ -27,7 +27,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![vtex](https://img.shields.io/badge/-Vtex.io-05122A?style=flat&logo=vtex)&nbsp;
-![OCC](https://img.shields.io/badge/-OCC-05122A?style=flat&logo=oracle)&nbsp;
 
 
 
